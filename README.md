@@ -34,7 +34,7 @@ A comprehensive Python-based application for managing student grades, courses, a
 1. Clone repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/donEvab/student-grade-management.git>
 cd student-grade-management
 ```
 
@@ -104,8 +104,8 @@ python main.py
 
 **Your Name**
 
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+- GitHub: [@donEvab]
+- Email: revanacc2@gmail.com
 
 ## 📝 License
 
