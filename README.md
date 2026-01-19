@@ -70,6 +70,10 @@ pip install -r requirements.txt
 python config/database.py
 ```
 
+## 📊 ERD
+
+![ERD](ERD.png)
+
 ## 📊 Database Schema
 
 ### Students
@@ -102,7 +106,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Revan Alfiandri Fauzi **
 
 - GitHub: [@donEvab]
 - Email: revanacc2@gmail.com
