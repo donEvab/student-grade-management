@@ -1,0 +1,38 @@
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment Variables
+.env
+.env.local
+config/credentials.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# database
+*.db
+*.sqlite3
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
