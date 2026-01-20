@@ -97,7 +97,7 @@ python main.py
 ## 📅 Development Progress
 
 - [x] Day 1: Database setup and schema design
-- [ ] Day 2: Models and database connection
+- [x] Day 2: Models and database connection
 - [ ] Day 3: Course and grade models
 - [ ] Day 4: Statistics and validation
 - [ ] Day 5: Controllers
